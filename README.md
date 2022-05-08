@@ -17,6 +17,9 @@
 </div>
   
   ##
+  ### 💻 **OS:** 
+  ![windows badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![mint badge](https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) 
   
   <div> 
   <a href="https://instagram.com/lucsamoriim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
