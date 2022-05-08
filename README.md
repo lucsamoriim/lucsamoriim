@@ -1,7 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Eaí, beleza? Me chamo Lucas Amorim 👋
 
 <div align="center">
   <a href="https://github.com/lucsamoriim">
